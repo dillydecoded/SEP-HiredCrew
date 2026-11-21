@@ -13,7 +13,7 @@
 | Mentor / supervisor | None yet |
 | Our 3 metrics | 1. Students using HiredCrew (signed in at least once, cumulative) 2. Mock interviews completed (cumulative) 3. Conversations with students about their job search (cumulative) |
 | Latest numbers | 1. 0 (first testers still being finalised) 2. Not counted yet 3. About 10 (as of Nov 2026) |
-| Latest video | [Update 1 – Nov 2026](<YouTube link>) |
+| Latest video | [Update 1 – Nov 2026](https://youtu.be/lgN6WD32cTI) |
 | Website / demo | https://hiredcrewsg.vercel.app |
 
 ## 2. Team
@@ -43,7 +43,7 @@
 ## 4. Updates (newest first)
 
 ### Update 1 — Nov 2026
-**Video:** [Hired Crew – SEP Update 1](<YouTube link>) (<m:ss>)
+**Video:** [Hired Crew – SEP Update 1](https://youtu.be/lgN6WD32cTI) (2:55)
 
 | Metric | Last update | Now |
 |---|---|---|
